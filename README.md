@@ -278,6 +278,10 @@ You can also join us on [Discord](https://discord.gg/Bykz6BAN8p) to chat with ot
 
 [![Discord Join](https://img.shields.io/discord/1023634406935642223?style=flat-square&logo=discord)](https://discord.gg/Bykz6BAN8p)
 
+# Compiling from Source
+
+If you want to compile Fasten from source code, please see the [COMPILATION.md](COMPILATION.md) guide for detailed instructions.
+
 # Contributing
 
 [![CI](https://github.com/fastenhealth/fasten-onprem/actions/workflows/ci.yaml/badge.svg)](https://github.com/fastenhealth/fasten-onprem/actions/workflows/ci.yaml)
