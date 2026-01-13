@@ -38,7 +38,7 @@ npm install -g yarn
 # Install Go (v1.21+)
 wget https://go.dev/dl/go1.24.0.linux-amd64.tar.gz
 sudo tar -C /usr/local -xzf go1.24.0-linux-amd64.tar.gz
-export PATH=$PATH:/usr/local/bin/go
+export PATH=$PATH:/usr/local/go/bin
 
 # Install Chrome (for frontend tests)
 # Follow instructions at https://www.google.com/chrome/
