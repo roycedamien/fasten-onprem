@@ -83,3 +83,7 @@ backend/resources/related_versions.json
 frontend/documentation.json
 
 certs/
+
+# Compiled binaries
+/fasten
+/dist/
